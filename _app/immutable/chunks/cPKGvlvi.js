@@ -1,0 +1,1 @@
+const n=!0,t="https://sew-mimic.com".replace(/\/+$/,"")??"",e=`${t||""}/api/auth-status`,o=t?`${t}/login`:"";function c(r,s){try{const a=new URL(r,s);return a.searchParams.set("returnTo",s),a.href}catch{return r}}export{e as a,n as b,o as r,c as w};

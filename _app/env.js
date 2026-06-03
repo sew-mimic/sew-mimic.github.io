@@ -1,0 +1,1 @@
+export const env={"PUBLIC_AUTH_ORIGIN":"https://sew-mimic.com","PUBLIC_ANON_REVIEW":"true","PUBLIC_RERUN_R2_BASE_URL":"https://sew.assets.yunhocho.com"}
